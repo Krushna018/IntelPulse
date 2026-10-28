@@ -1,0 +1,3 @@
+# The deployable application lives in backend/. This file exists so that
+# `pip install -r requirements.txt` works from the repository root too.
+-r backend/requirements.txt

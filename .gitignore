@@ -1,0 +1,32 @@
+# Environment files
+.env
+*.env
+.env.local
+*.env.local
+.env.*.local
+
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Node modules & build outputs
+frontend/node_modules
+dist
+build
+
+# Local databases — long-term scan memory is per-deployment state, not source
+*.db
+*.sqlite
+*.sqlite3
+
+# Server logs. These capture the exact queries a scan ran, so they are local
+# diagnostics rather than source, and they should never reach the repository.
+*.log
+
+# Virtualenv
+venv/
+env/
+ENV/
+.venv/
