@@ -198,19 +198,3 @@ Query-coverage probe — runs several real phrasings per tool and reports how mu
 *IntelPulse AI Dashboard showcasing the Interactive Analyst and Bento Grid.*
 
 ---
-
-## 👥 Team Members
-
-Built with ❤️ by the IntelPulse Team:
-
-*   **Krushna Tekane**
-*   **Vaibhav Dawange**
-*   **Sharvari Kolte**
-*   **Shubham Khose**
-*   **Aditya Ugale**
-
----
-
-## Project Update
-
-Latest project updates and documentation.
